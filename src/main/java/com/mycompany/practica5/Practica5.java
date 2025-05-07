@@ -37,6 +37,9 @@ public class Practica5 {
     System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 1euros");
     System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 2euros");
     System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 3euros");
+    System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 3euros");
+    System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 3euros");
+    System.out.println("Saldo tras retirada: " + miCuenta.dSaldo + " 3euros");
 }
     
 }
